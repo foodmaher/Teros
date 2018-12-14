@@ -27,3 +27,7 @@ WARNING: You must be in this path ( pwd [ data/data/com.termux/files/home ] )
 # Description
 
 Will write soon ...
+
+#
+
+The tool is currently under development
