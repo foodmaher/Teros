@@ -2,6 +2,8 @@
 
 WARNING: Translation was done using a translator because I do not speak English ... !!
 
+This works on the dialog screen for easing works ... !!
+
 Please do not copy the code without mentioning the source ... !!
 
 This deposit is designed using the IF system ... !!
