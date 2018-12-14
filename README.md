@@ -6,7 +6,7 @@ Please do not copy the code without mentioning the source ... !!
 
 This deposit is designed using the IF system ... !!
 
-# Downloads .. !!
+# Downloads
 
 1. install Termux application form Google Paly and open application
 
