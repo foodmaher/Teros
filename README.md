@@ -14,6 +14,8 @@ This deposit is designed using the IF system ... !!
  
 3. copy and paste only >> ( apt update && apt upgrade && apt install git proot dialog -y ) .
 
-4. copy and pate only >> ( git clone  )
+WARNING: You must be in this path ( pwd [ data/data/com.termux/files/home] ).
 
- 
+4. copy and paste only >> ( git clone https://github.com/foodmaher/Teros.git ) .
+
+5. copy and paste only >> ( cd Teros && mv select_colors_dialog.conf ~/select_colors_dialog.conf ) .
