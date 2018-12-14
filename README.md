@@ -12,6 +12,8 @@ This deposit is designed using the IF system ... !!
 
 2. Give storage powers ( termux-setup-storage ) copy/paste code .
  
-3. copy and paste only >> ( apt update && apt upgrade && apt install git proot dialog  )
+3. copy and paste only >> ( apt update && apt upgrade && apt install git proot dialog -y ) .
+
+4. copy and pate only >> ( git clone  )
 
  
