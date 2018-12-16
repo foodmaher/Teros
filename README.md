@@ -16,9 +16,9 @@ This deposit is designed using the IF system ... !!
  
 3. copy and paste only >> ( apt update && apt upgrade && apt install git proot dialog pv -y )
 
-WARNING: You must be in this path ( pwd [ data/data/com.termux/files/home ] )
+WARNING: You must be in this path ( command ( pwd ) [ data/data/com.termux/files/home ] )
 
-4. copy and paste only >> ( mkdir Teros && cd Teros && git clone https://github.com/foodmaher/Teros.git )
+4. copy and paste only >> ( cd Teros && git clone https://github.com/foodmaher/Teros.git )
 
 5. copy and paste only >> ( mv SCD.conf ~/SCD.conf && cd .. && chmod 777 -R Teros )
 
