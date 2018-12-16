@@ -18,7 +18,7 @@ This deposit is designed using the IF system ... !!
 
 WARNING: You must be in this path ( command ( pwd ) [ data/data/com.termux/files/home ] )
 
-4. copy and paste only >> ( cd Teros && git clone https://github.com/foodmaher/Teros.git )
+4. copy and paste only >> ( git clone https://github.com/foodmaher/Teros.git && cd Teros )
 
 5. copy and paste only >> ( mv SCD.conf ~/SCD.conf && cd .. && chmod 777 -R Teros )
 
