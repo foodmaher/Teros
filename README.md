@@ -1,5 +1,5 @@
-# Teros
-
+Teros
+=====
 WARNING: Translation was done using a translator because I do not speak English ... !!
 
 This works on the dialog screen for easing works ... !!
@@ -8,7 +8,10 @@ Please do not copy the code without mentioning the source ... !!
 
 This deposit is designed using the IF system ... !!
 
-# Downloads
+Downloads
+=========
+
+# Manual
 
 1. install Termux application form Google Paly and open application
 
@@ -23,6 +26,10 @@ WARNING: You must be in this path command ` pwd `  (data/data/com.termux/files/h
 5. copy and paste only  ` mv SCD.conf ~/SCD.conf && cd .. && chmod 777 -R Teros `
 
 6. Start ` cd Teros && bash Teros.sh `
+
+# Automatically
+
+[Press here Download](https://www.google.com) (not work now)
 
 Description
 ===========
