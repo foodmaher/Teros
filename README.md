@@ -19,7 +19,7 @@ Downloads
  
 3. copy and paste only ` apt update && apt upgrade && apt install git proot dialog pv -y `
 
-WARNING: You must be in this path command ` pwd `  (data/data/com.termux/files/home)
+       WARNING: You must be in this path command ` pwd `  (data/data/com.termux/files/home)
 
 4. copy and paste only  ` git clone https://github.com/foodmaher/Teros.git && cd Teros `
 
