@@ -1,12 +1,9 @@
 Teros
 =====
-WARNING: Translation was done using a translator because I do not speak English ... !!
 
-This works on the dialog screen for easing works ... !!
+This depends on the dialog screen pattern for easier usage ... !!
 
 Please do not copy the code without mentioning the source ... !!
-
-This deposit is designed using the IF system ... !!
 
 Downloads
 =========
@@ -37,7 +34,7 @@ Will write soon ...
 
 #
 
-The tool is currently under development
+The tool is currently under experimental development phase ;)
 
  
      WARNING : Do not use the main functions currently
